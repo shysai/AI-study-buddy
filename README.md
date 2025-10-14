@@ -18,7 +18,7 @@ A smart, interactive AI-powered study companion built with Streamlit and Google'
 
 ## 🚀 Live Demo
 
-Check out the live application: [AI Study Buddy on Render](https://ai-study-buddy-s89h.onrender.com)
+Check out the live application: [AI Study Buddy on Render](https://ai-study-buddy-2-usc5.onrender.com/)
 
 ## 🛠️ Installation
 
